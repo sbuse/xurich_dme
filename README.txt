@@ -1,1 +1,1 @@
-This is the first time i use github.
+Here i put a few files of my master thesis. Simon 20.12.21
