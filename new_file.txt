@@ -1,2 +1,4 @@
 This is a new file to test the workflow of git and github.The file needs a new change so see if i set vim as the
 editor. 
+
+let's add a new change online and merge it with my local data to check how fetch and merge works.
